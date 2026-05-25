@@ -49,13 +49,13 @@ function Contact() {
 
               <p className="text-green-400 uppercase tracking-[4px] mb-3">
 
-                Mobile
+                
 
               </p>
 
               <p className="text-2xl text-white">
 
-                +91 9776427601
+                
 
               </p>
 
@@ -81,7 +81,7 @@ function Contact() {
 
               <p className="text-green-400 uppercase tracking-[4px] mb-3">
 
-                GREEN VALLEY, SECTOR 42,121003
+                Our Base
 
               </p>
 
