@@ -17,10 +17,10 @@ function Hero() {
       </video>
 
       {/* Dark Overlay */}
-      <div className="absolute inset-0 bg-black/70"></div>
+      <div className="absolute inset-0 bg-black/40"></div>
 
       {/* Green Gradient */}
-      <div className="absolute inset-0 bg-gradient-to-r from-[#04150B]/70 to-black/80"></div>
+      <div className="absolute inset-0 bg-gradient-to-r from-[#04150B]/30 to-black/40"></div>
 
       {/* Noise Texture */}
       <div className="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/asfalt-dark.png')]"></div>
