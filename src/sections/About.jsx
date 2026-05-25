@@ -64,14 +64,14 @@ function About() {
               <img
                 src={founder1}
                 alt="Founder"
-                className="w-full h-[600px] object-cover group-hover:scale-105 transition duration-700"
+                className="w-full h-[600px] object-contain bg-[#050505] group-hover:scale-105 transition duration-700"
               />
 
             </div>
 
             <h3 className="text-3xl font-bold mb-2">
 
-              Om Vinayak
+              OM VINAYAK
 
             </h3>
 
@@ -105,14 +105,14 @@ function About() {
               <img
                 src={founder2}
                 alt="Founder"
-                className="w-full h-[600px] object-cover group-hover:scale-105 transition duration-700"
+                className="w-full h-[600px] object-contain bg-[#050505] group-hover:scale-105 transition duration-700"
               />
 
             </div>
 
             <h3 className="text-3xl font-bold mb-2">
 
-              Co-Founder Name
+              ARCHIT NIRULA
 
             </h3>
 
