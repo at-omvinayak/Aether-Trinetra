@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 
-import founder1 from "../assets/founder1.jpg"
+import founder1 from "../assets/founder1.jpeg"
 import founder2 from "../assets/founder2.jpg"
 
 function About() {
